@@ -5,7 +5,12 @@ if (Meteor.isClient) {
     // This code only runs on the client
     Template.body.helpers({
         tasks: function () {
-            return Tasks.find({});
+            /*
+             Currently, our code displays all new tasks at the bottom of the list. That's not very good for a task list, because we want to be see the newest tasks first.
+
+             We can solve this by sorting the results using the createdAt field that is automatically added by our new code. Just add a sort option to the find call inside the tasks helper:
+             */
+            return Tasks.find({}, {sort: {createdAt: -1}});
         }
     });
 
