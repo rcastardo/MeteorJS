@@ -1,5 +1,5 @@
 
 
-my_app_name.meteor.com
+meteor deploy my_app_name.meteor.com
 
 http://my_app_name.meteor.com
