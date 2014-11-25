@@ -26,7 +26,7 @@
       <file leaf-file-name="simple-todos.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/simple-todos/simple-todos.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="1" selection-start="1215" selection-end="1215" vertical-scroll-proportion="0.6418554" vertical-offset="0" max-vertical-offset="927">
+            <state line="45" column="7" selection-start="1589" selection-end="1589" vertical-scroll-proportion="0.8252427" vertical-offset="0" max-vertical-offset="927">
               <folding />
             </state>
           </provider>
@@ -44,10 +44,8 @@
       <file leaf-file-name="simple-todos.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simple-todos/simple-todos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="11" selection-start="481" selection-end="481" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="527">
-              <folding>
-                <marker date="1416941681203" expanded="true" signature="77:422" placeholder="..." />
-              </folding>
+            <state line="32" column="11" selection-start="747" selection-end="747" vertical-scroll-proportion="-20.923077" vertical-offset="0" max-vertical-offset="646">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -220,10 +218,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simple-todos/simple-todos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="11" selection-start="481" selection-end="481" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="527">
-          <folding>
-            <marker date="1416941681203" expanded="true" signature="77:422" placeholder="..." />
-          </folding>
+        <state line="32" column="11" selection-start="747" selection-end="747" vertical-scroll-proportion="-20.923077" vertical-offset="0" max-vertical-offset="646">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -236,7 +232,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simple-todos/simple-todos.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="1" selection-start="1215" selection-end="1215" vertical-scroll-proportion="0.6418554" vertical-offset="0" max-vertical-offset="927">
+        <state line="45" column="7" selection-start="1589" selection-end="1589" vertical-scroll-proportion="0.8252427" vertical-offset="0" max-vertical-offset="927">
           <folding />
         </state>
       </provider>
